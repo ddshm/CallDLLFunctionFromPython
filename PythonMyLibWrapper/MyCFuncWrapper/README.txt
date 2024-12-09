@@ -1,9 +1,3 @@
-# CallDLLFunctionFromPython
-Calling a function in a DLL created in C++ from a program in Python and passing an array of doubles
-
-
-Main steps:
-
 1.
 Build MyLib project. That should create x64\Release\MyLib.dll
 
