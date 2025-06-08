@@ -150,7 +150,6 @@ pip install dist\mycfuncwrapper-1.0.tar.gz</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="framework.h" />
     <ClInclude Include="MyLib.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
